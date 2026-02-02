@@ -28,7 +28,7 @@ This project demonstrates the installation of a self-hosted osTicket help desk s
 - Integrate all components and complete the osTicket web-based setup.
 
 <h2>5. Deployment & Installation Steps</h2>
-
+Download Installation files: https://drive.google.com/file/d/1D4v2vQkaHXbWNHPZVXbRT2oAi1U71HpK/view?usp=drive_link
 <h3>1. CREATE VM IN AZURE</h3>
 Create an Azure Virtual Machine with the following settings.
 
